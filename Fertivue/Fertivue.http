@@ -1,0 +1,6 @@
+@Fertivue_HostAddress = http://localhost:5089
+
+GET {{Fertivue_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

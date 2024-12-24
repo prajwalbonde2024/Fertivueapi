@@ -1,0 +1,314 @@
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\appsettings.Development.json
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\appsettings.json
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Fertivue.exe
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Fertivue.deps.json
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Fertivue.runtimeconfig.json
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Fertivue.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Fertivue.pdb
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\MySqlConnector.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\Fertivue.csproj.AssemblyReference.cache
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\Fertivue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\Fertivue.AssemblyInfoInputs.cache
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\Fertivue.AssemblyInfo.cs
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\Fertivue.csproj.CoreCompileInputs.cache
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\Fertivue.MvcApplicationPartsAssemblyInfo.cs
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\Fertivue.MvcApplicationPartsAssemblyInfo.cache
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\staticwebassets.build.json
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\staticwebassets.development.json
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\staticwebassets\msbuild.Fertivue.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\staticwebassets\msbuild.build.Fertivue.props
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Fertivue.props
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Fertivue.props
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\scopedcss\bundle\Fertivue.styles.css
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\Fertivue.csproj.CopyComplete
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\Fertivue.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\refint\Fertivue.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\Fertivue.pdb
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\Fertivue.genruntimeconfig.cache
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Debug\net8.0\ref\Fertivue.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Humanizer.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\System.CodeDom.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Fertivue.exe
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Fertivue.deps.json
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Fertivue.runtimeconfig.json
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Fertivue.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Fertivue.pdb
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\Fertivue.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\Fertivue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\Fertivue.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\Fertivue.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\Fertivue.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\Fertivue.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\Fertivue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\Fertivue.sourcelink.json
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\staticwebassets\msbuild.Fertivue.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\staticwebassets\msbuild.build.Fertivue.props
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Fertivue.props
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Fertivue.props
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\scopedcss\bundle\Fertivue.styles.css
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\Fertivue.csproj.CopyComplete
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\Fertivue.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\refint\Fertivue.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\Fertivue.pdb
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\Fertivue.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivue_Api\Fertivue\obj\Debug\net8.0\ref\Fertivue.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Fertivue.exe
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Fertivue.deps.json
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Fertivue.runtimeconfig.json
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Fertivue.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Fertivue.pdb
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\Fertivue.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\Fertivue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\Fertivue.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\Fertivue.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\Fertivue.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\Fertivue.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\Fertivue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\Fertivue.sourcelink.json
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\staticwebassets\msbuild.Fertivue.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\staticwebassets\msbuild.build.Fertivue.props
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Fertivue.props
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Fertivue.props
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\scopedcss\bundle\Fertivue.styles.css
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\Fertivue.csproj.CopyComplete
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\Fertivue.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\refint\Fertivue.dll
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\Fertivue.pdb
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\Fertivue.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Api for the Fertivue\Fertivueapi\Fertivue\obj\Debug\net8.0\ref\Fertivue.dll

@@ -1,0 +1,16 @@
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Release\net8.0\PubTmp\Out\Fertivue.exe
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Release\net8.0\PubTmp\Out\Fertivue.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Release\net8.0\PubTmp\Out\Fertivue.runtimeconfig.json
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Release\net8.0\PubTmp\Out\Fertivue.pdb
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Release\net8.0\PubTmp\Out\MySqlConnector.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Release\net8.0\PubTmp\Out\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Prajwal Bonde\Fertivue\Fertivue\obj\Release\net8.0\PubTmp\Out\Fertivue.deps.json
